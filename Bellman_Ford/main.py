@@ -47,7 +47,7 @@ if __name__ == '__main__':
         nodes_weights = line.rstrip().split()
         nodes_weights_tab.append(nodes_weights)
     n_nodes = len(nodes_weights_tab)
-    print(nodes_weights_tab)
+
     # graph creating
     graph = Graph(n_nodes)
 
