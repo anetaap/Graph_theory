@@ -11,6 +11,7 @@
 >It is similar to Dijkstra's algorithm but it can work with graphs in which edges can have negative weights.
 #### The instruction on how to use this code is as follows: 
 1. You must put the list of adjacency  your graph in the ___"graph.txt"___ file, which is in the __"tests"__ folder.
+      Or you can just put your own .txt file in the __tests__ folder and change the word ___graph___ on line __44__ to your file name. 
 
       ![instruction](https://github.com/anetaap/Graph_theory/blob/main/Instructions/Instruction.png)
       
